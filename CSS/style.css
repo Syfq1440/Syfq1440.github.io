@@ -95,10 +95,13 @@ header a:hover{
 
 #showcase p{
   font-size:20px;
+  color: #e6e6e6;
+  background-color: #030137;
 }
 
 #showcase img{
   border-radius: 50%;
+  margin-top: 100px;
 }
 
 /* newsletter */
